@@ -1,0 +1,94 @@
+<mxfile host="65bd71144e">
+    <diagram name="第 1 页" id="vjwDsHiD1SJDD233UI6U">
+        <mxGraphModel dx="736" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="left1" value="现实世界&lt;br&gt;中的物体" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A86C5;fillColor=none;fontColor=#4A86C5;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="60" y="60" width="130" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="left2" value="空间几何体" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A86C5;fillColor=none;fontColor=#4A86C5;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="55" y="225" width="145" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="left3" value="几何元素&lt;br&gt;及其位置&lt;br&gt;关系" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A86C5;fillColor=none;fontColor=#4A86C5;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="400" width="175" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="txt1" value="抽象" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#4A86C5;fontStyle=1;fontSize=18;align=center;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="95" y="150" width="70" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="txt2" value="从整体到局部" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#4A86C5;fontStyle=1;fontSize=18;align=center;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="45" y="335" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="groupA" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7FB3E6;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="80" width="420" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="u1" value="第一单元&lt;br&gt;基本立体图形" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="95" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="u2" value="第二单元&lt;br&gt;立体图形的直观图" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="190" width="260" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="u3" value="第三单元&lt;br&gt;简单几何体的表面积与体积" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="315" y="285" width="370" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="u4" value="第四单元&lt;br&gt;空间点、直线、平面之间的位置关系" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="420" width="520" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="u7" value="第七单元&lt;br&gt;文献阅读与数学写作：几何学的发展" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="515" width="480" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="u8" value="第八单元　小结" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="600" width="440" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="sample1" value="柱、锥、台、球" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#4A86C5;fillColor=none;fontColor=#4A86C5;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="770" y="120" width="190" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="txt3" value="特殊&lt;br&gt;位置关系" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#4A86C5;fontStyle=1;fontSize=18;align=center;verticalAlign=middle;" parent="1" vertex="1">
+                    <mxGeometry x="790" y="410" width="60" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="groupB" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7FB3E6;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+                    <mxGeometry x="890" y="365" width="320" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="u5" value="第五单元&lt;br&gt;空间直线、平面的平行" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2F75B5;fillColor=#2F75B5;fontColor=#FFFFFF;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="380" width="300" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="u6" value="第六单元&lt;br&gt;空间直线、平面的垂直" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#2F75B5;fillColor=#2F75B5;fontColor=#FFFFFF;fontStyle=1;fontSize=20;" parent="1" vertex="1">
+                    <mxGeometry x="900" y="450" width="300" height="65" as="geometry"/>
+                </mxCell>
+                <mxCell id="e1" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;" parent="1" source="left1" target="left2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e2" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;entryX=0.566;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="left2" target="left3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e3" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;endSize=6;" parent="1" source="left2" target="u2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e4" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;" parent="1" source="left3" target="u4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e5" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;" parent="1" source="u1" target="u2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e6" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;" parent="1" source="u2" target="u3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e7" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;" parent="1" source="u3" target="u4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e8" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;" parent="1" source="u4" target="u7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e9" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;" parent="1" source="u7" target="u8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e10" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;exitX=1.004;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="u1" target="sample1" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="e11" style="endArrow=classic;html=1;strokeColor=#4A86C5;rounded=0;" parent="1" source="u4" target="u5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
