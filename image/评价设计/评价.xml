@@ -1,0 +1,140 @@
+<mxfile host="app.diagrams.net" type="device">
+  <diagram name="立体几何初步单元评价体系">
+    <mxGraphModel dx="1800" dy="2200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="2600" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- 顶层 -->
+        <mxCell id="top1" value="《立体几何初步》单元评价活动设计" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A3C6D;fontColor=#FFFFFF;fontSize=22;strokeColor=#1A3C6D;arcSize=15;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="560" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="top2" value="“教学评一体化”理念&lt;br&gt;立足核心素养发展，贯穿单元教学全过程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2D5F8A;fontColor=#FFFFFF;fontSize=16;strokeColor=#2D5F8A;arcSize=12;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="115" width="560" height="70" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_top" style="endArrow=classic;html=1;strokeColor=#2D5F8A;strokeWidth=2;" edge="1" parent="1" source="top1" target="top2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- 三项重点素养 -->
+        <mxCell id="title1" value="三项重点素养" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3B7BBF;fontColor=#FFFFFF;fontSize=18;strokeColor=#3B7BBF;arcSize=12;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="340" height="45" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="s1" value="直观想象" style="ellipse;whiteSpace=wrap;html=1;fillColor=#5B9BD5;fontColor=#FFFFFF;fontSize=16;strokeColor=#4178A4;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="300" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="s2" value="逻辑推理" style="ellipse;whiteSpace=wrap;html=1;fillColor=#5B9BD5;fontColor=#FFFFFF;fontSize=16;strokeColor=#4178A4;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="300" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="s3" value="数学抽象" style="ellipse;whiteSpace=wrap;html=1;fillColor=#5B9BD5;fontColor=#FFFFFF;fontSize=16;strokeColor=#4178A4;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="300" width="150" height="60" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e_s1" style="endArrow=classic;html=1;strokeColor=#3B7BBF;strokeWidth=1.5;" edge="1" parent="1" source="title1" target="s1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_s2" style="endArrow=classic;html=1;strokeColor=#3B7BBF;strokeWidth=1.5;" edge="1" parent="1" source="title1" target="s2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_s3" style="endArrow=classic;html=1;strokeColor=#3B7BBF;strokeWidth=1.5;" edge="1" parent="1" source="title1" target="s3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- 三层次评价体系 -->
+        <mxCell id="title2" value="感知与表征 — 分析与推理 — 抽象与应用 三层次素养评价体系" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A3C6D;fontColor=#FFFFFF;fontSize=17;strokeColor=#1A3C6D;arcSize=10;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="400" width="860" height="45" as="geometry"/>
+        </mxCell>
+
+        <!-- 第一层 -->
+        <mxCell id="L1" value="第一层次：感知与表征层&lt;br&gt;对应：基本立体图形、立体图形的直观图&lt;br&gt;重点：识别结构特征、读懂直观图、二维与三维转换&lt;br&gt;工具：课堂观察表、学习任务单、识图·画图·判断活动" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#5B9BD5;strokeWidth=2;arcSize=8;fontSize=13;align=left;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="360" height="170" as="geometry"/>
+        </mxCell>
+
+        <!-- 第二层 -->
+        <mxCell id="L2" value="第二层次：分析与推理层&lt;br&gt;对应：空间点、直线、平面位置关系；平行与垂直&lt;br&gt;重点：依据定义、判定和性质分析空间关系；说理与简单证明&lt;br&gt;工具：板演展示记录、说理任务单、表现性评价量规" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#5B9BD5;strokeWidth=2;arcSize=8;fontSize=13;align=left;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="360" height="170" as="geometry"/>
+        </mxCell>
+
+        <!-- 第三层 -->
+        <mxCell id="L3" value="第三层次：抽象与应用层&lt;br&gt;对应：单元综合学习任务&lt;br&gt;重点：提升为一般性结论；迁移运用到新情境；整体把握单元内容&lt;br&gt;工具：单元综合任务单、学习反思单、综合测试题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E8F0FE;strokeColor=#5B9BD5;strokeWidth=2;arcSize=8;fontSize=13;align=left;spacing=8;" vertex="1" parent="1">
+          <mxGeometry x="840" y="490" width="360" height="170" as="geometry"/>
+        </mxCell>
+
+        <!-- 递进连线 -->
+        <mxCell id="e_l1" style="endArrow=classic;html=1;strokeColor=#FF8C00;strokeWidth=2;dashed=1;" edge="1" parent="1" source="L1" target="L2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_l2" style="endArrow=classic;html=1;strokeColor=#FF8C00;strokeWidth=2;dashed=1;" edge="1" parent="1" source="L2" target="L3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- 实施路径 -->
+        <mxCell id="title3" value="实施路径：课前诊断—课中跟踪—课后反馈—单元总结" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A3C6D;fontColor=#FFFFFF;fontSize=18;strokeColor=#1A3C6D;arcSize=10;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="560" height="45" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="p1" value="课前诊断&lt;br&gt;3—5道基础题&lt;br&gt;了解已有基础" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4CAF50;fontColor=#FFFFFF;fontSize=14;strokeColor=#388E3C;arcSize=15;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="800" width="220" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="p2" value="课中跟踪&lt;br&gt;课堂观察表·任务单&lt;br&gt;提问记录·板演展示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2196F3;fontColor=#FFFFFF;fontSize=14;strokeColor=#1565C0;arcSize=15;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="800" width="220" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="p3" value="课后反馈&lt;br&gt;分层练习·错题反思单&lt;br&gt;自评互评表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9800;fontColor=#FFFFFF;fontSize=14;strokeColor=#E65100;arcSize=15;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="800" width="220" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="p4" value="单元总结&lt;br&gt;综合测试·表现性任务&lt;br&gt;综合性说理题" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9C27B0;fontColor=#FFFFFF;fontSize=14;strokeColor=#6A1B9A;arcSize=15;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="800" width="220" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="ep1" style="endArrow=classic;html=1;strokeColor=#333333;strokeWidth=2;" edge="1" parent="1" source="p1" target="p2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ep2" style="endArrow=classic;html=1;strokeColor=#333333;strokeWidth=2;" edge="1" parent="1" source="p2" target="p3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ep3" style="endArrow=classic;html=1;strokeColor=#333333;strokeWidth=2;" edge="1" parent="1" source="p3" target="p4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="ep4" value="反馈驱动教学改进" style="endArrow=classic;html=1;strokeColor=#E53935;strokeWidth=2;curved=1;" edge="1" parent="1" source="p4" target="p1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="930"/>
+              <mxPoint x="500" y="990"/>
+              <mxPoint x="180" y="930"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- 结果反馈 -->
+        <mxCell id="title4" value="评价结果使用：诊断—改进—再教学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A3C6D;fontColor=#FFFFFF;fontSize=18;strokeColor=#1A3C6D;arcSize=10;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1040" width="500" height="45" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="r1" value="空间表象不稳定&lt;br&gt;→ 增加模型操作、图形还原、表征转换训练" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3E0;fontColor=#E65100;strokeColor=#FF9800;arcSize=10;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1120" width="340" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="r2" value="逻辑推理与表达薄弱&lt;br&gt;→ 加强板演反馈、说理训练、定理运用指导" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3E0;fontColor=#E65100;strokeColor=#FF9800;arcSize=10;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1120" width="340" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="r3" value="综合应用与迁移不足&lt;br&gt;→ 补充整合题、变式题、情境任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF3E0;fontColor=#E65100;strokeColor=#FF9800;arcSize=10;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1120" width="340" height="90" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="e_r1" style="endArrow=classic;html=1;strokeColor=#1A3C6D;strokeWidth=1.5;" edge="1" parent="1" source="title4" target="r1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_r2" style="endArrow=classic;html=1;strokeColor=#1A3C6D;strokeWidth=1.5;" edge="1" parent="1" source="title4" target="r2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="e_r3" style="endArrow=classic;html=1;strokeColor=#1A3C6D;strokeWidth=1.5;" edge="1" parent="1" source="title4" target="r3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="bottom" value="以素养发展为核心 · 以评价证据为支撑 · 以教学改进为目标" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1A3C6D;fontColor=#FFFFFF;fontSize=16;strokeColor=#1A3C6D;arcSize=10;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1260" width="680" height="55" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
