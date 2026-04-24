@@ -1,3 +1,4 @@
+    % !Mode:: "TeX:UTF-8" 使用UTF8编码
 %页边距
 \oddsidemargin=0pt
 \evensidemargin=0pt
@@ -39,23 +40,17 @@
 %\setlength{\arraycolsep}{2pt}
 %一级标题格式
 \renewcommand\section{%
-\@startsection{section}{0}{-2\ccwd}{10pt}{8pt}%
+\@startsection{section}{1}{0\ccwd}{10pt}{8pt}%
 {\!\zihao{-3}\song\textbf}%
 }
-%\titleformat{\section}
-%  {\zihao{-3}\song\bfseries}
-%  {\thesection}{.75em}{}
-%  [\vspace*{-13pt}]
-%titleformat{command}[shape]{format}{label}{sep}{before}[after]
-
 % 二级标题格式
 \renewcommand\subsection{%
-\@startsection{subsection}{1}{-4pt}{5pt}{5pt}%
+\@startsection{subsection}{2}{2\ccwd}{5pt}{5pt}%
 {\song\zihao{4}\textbf}%
 }
 % 三级标题格式
 \renewcommand\subsubsection{%
-\@startsection{subsubsection}{2}{1\ccwd}{0pt}{1pt}%
+\@startsection{subsubsection}{2}{3\ccwd}{0pt}{1pt}%
 {\song\zihao{-4}\textbf}%
 }
 % 四级标题格式, 此命令无效.
@@ -68,7 +63,8 @@
 %%%%%%%% 目录格式
 \setcounter{tocdepth}{3}
 \renewcommand{\contentsname}{%
-\centering\heiti\zihao{-2}目\quad{}录}
+\centerline{\heiti\zihao{-2}目\quad 录}}
+
 
 
 %\titlecontents{标题名}[左间距]{标题格式}{标题标志}{无序号标题}
@@ -104,7 +100,6 @@
 {}
 {\titlerule*[0.5pc]{$\cdot$}\textrm{\contentspage}}
 
-% 三级标题, 此版本不显示此层次标题
 \titlecontents{subsubsection}
 [5.5em]
 {\zihao{-4}\song}
