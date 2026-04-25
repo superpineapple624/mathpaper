@@ -33,52 +33,41 @@
 \contentsline {subsubsection}{\numberline {2.5.2}单元教学是核心素养的实施载体。}{13}{}%
 \contentsline {subsubsection}{\numberline {2.5.3}立体几何单元是核心素养研究的具体载体。}{13}{}%
 \contentsline {subsection}{\numberline {2.6}小结}{13}{}%
-\contentsline {section}{\numberline {3}指向核心素养的高中数学"立体几何"单元教学评一体化问卷调查分析}{14}{}%
+\contentsline {section}{\numberline {3}核心素养导向下高中立体几何单元教学评一体化问卷分析 }{14}{}%
 \contentsline {subsection}{\numberline {3.1}问卷设计与数据处理说明}{14}{}%
 \contentsline {subsection}{\numberline {3.2}教师对"教学评一体化"理念的认知与实践现状}{16}{}%
 \contentsline {subsubsection}{\numberline {3.2.1}理念认知情况}{16}{}%
 \contentsline {subsubsection}{\numberline {3.2.2}实践落实情况}{17}{}%
-\contentsline {subsection}{\numberline {3.3}立体几何单元教学中核心素养的落实情况}{17}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}直观想象素养的培养}{17}{}%
+\contentsline {subsection}{\numberline {3.3}立体几何单元教学中核心素养的落实情况}{18}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}直观想象素养的培养}{18}{}%
 \contentsline {subsubsection}{\numberline {3.3.2}逻辑推理素养的培养}{19}{}%
 \contentsline {subsubsection}{\numberline {3.3.3}数学抽象及其他素养的渗透}{20}{}%
-\contentsline {subsection}{\numberline {3.4}立体几何单元教学的评价方式与评价工具现状}{21}{}%
-\contentsline {subsubsection}{\numberline {3.4.1}评价方式的多元化程度}{21}{}%
-\contentsline {subsubsection}{\numberline {3.4.2}评价目标与教学目标的一致性}{21}{}%
-\contentsline {subsection}{\numberline {3.5}立体几何单元教学评一体化设计的需求与建议}{22}{}%
-\contentsline {subsubsection}{\numberline {3.5.1}单元整体设计的需求}{22}{}%
-\contentsline {subsubsection}{\numberline {3.5.2}评价工具与专业支持的需求}{23}{}%
-\contentsline {subsection}{\numberline {3.6}小结}{23}{}%
-\contentsline {subsubsection}{\numberline {3.6.1}调查呈现的教学优化重点}{23}{}%
-\contentsline {paragraph}{\numberline {3.6.1.1}理念认同已具基础，关键在于落实路径的提供。}{23}{}%
-\contentsline {paragraph}{\numberline {3.6.1.2}素养目标需要从"写进教案"到"转化为任务"。}{23}{}%
-\contentsline {paragraph}{\numberline {3.6.1.3}评价方式的改善有现实基础可依托。}{24}{}%
-\contentsline {paragraph}{\numberline {3.6.1.4}教师的经验资源值得系统整合。}{24}{}%
-\contentsline {subsubsection}{\numberline {3.6.2}基于调查与教师实践经验的优化策略与教学指引}{24}{}%
-\contentsline {paragraph}{\numberline {3.6.2.1}以"大概念"统领单元教学设计，实现目标—活动—评价的深度对齐。}{24}{}%
-\contentsline {paragraph}{\numberline {3.6.2.2}构建"三层次"素养评价体系，完善多元评价结构。}{24}{}%
-\contentsline {paragraph}{\numberline {3.6.2.3}综合法与向量法"双线并进"，兼顾直观想象与逻辑推理素养。}{25}{}%
-\contentsline {paragraph}{\numberline {3.6.2.4}创设完整问题情境，促进知识内化与实践转化}{26}{}%
-\contentsline {paragraph}{\numberline {3.6.2.5}建立"高校—教研组"协同机制，强化教师评价素养。}{26}{}%
-\contentsline {subsubsection}{\numberline {3.6.3}本章结语}{27}{}%
-\contentsline {section}{\numberline {4}指向核心素养的高中数学” 立体几何” 单元教学评一体化案例设计}{27}{}%
-\contentsline {subsection}{\numberline {4.1}《立体几何初步》总体设计}{27}{}%
-\contentsline {subsubsection}{\numberline {4.1.1}课标分析}{27}{}%
-\contentsline {subsubsection}{\numberline {4.1.2}内容分析}{28}{}%
-\contentsline {subsubsection}{\numberline {4.1.3}学情分析}{28}{}%
-\contentsline {subsubsection}{\numberline {4.1.4}目标分析}{29}{}%
-\contentsline {subsubsection}{\numberline {4.1.5}评价活动设计}{30}{}%
-\contentsline {subsection}{\numberline {4.2}《直线与平面平行》课时设计}{32}{}%
+\contentsline {subsection}{\numberline {3.4}立体几何单元教学的评价方式与评价工具现状}{22}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}评价方式的多元化程度}{22}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}评价目标与教学目标的一致性}{23}{}%
+\contentsline {subsection}{\numberline {3.5}立体几何单元教学评一体化设计的需求与建议}{23}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}单元整体设计的需求}{23}{}%
+\contentsline {subsubsection}{\numberline {3.5.2}评价工具与专业支持的需求}{24}{}%
+\contentsline {subsection}{\numberline {3.6}小结}{25}{}%
+\contentsline {subsubsection}{\numberline {3.6.1}调查呈现的教学优化重点}{25}{}%
+\contentsline {subsubsection}{\numberline {3.6.2}基于调查与教师实践经验的优化策略与教学指引}{26}{}%
+\contentsline {subsubsection}{\numberline {3.6.3}本章结语}{28}{}%
+\contentsline {section}{\numberline {4}核心素养导向下高中立体几何单元教学评一体化案例设计}{29}{}%
+\contentsline {subsection}{\numberline {4.1}《立体几何初步》总体设计}{29}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}课标分析}{29}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}内容分析}{29}{}%
+\contentsline {subsubsection}{\numberline {4.1.3}学情分析}{30}{}%
+\contentsline {subsubsection}{\numberline {4.1.4}目标分析}{31}{}%
+\contentsline {subsubsection}{\numberline {4.1.5}评价活动设计}{31}{}%
+\contentsline {subsection}{\numberline {4.2}《直线与平面平行》课时设计}{34}{}%
 \contentsline {subsubsection}{\numberline {4.2.1}《直线与平面平行》教学目标与核心素养对应表}{34}{}%
-\contentsline {subsubsection}{\numberline {4.2.2}教学重难点}{35}{}%
-\contentsline {subsubsection}{\numberline {4.2.3}教学过程}{35}{}%
-\contentsline {paragraph}{\numberline {4.2.3.1}1.\enspace 观察实验，归纳定理}{35}{}%
-\contentsline {paragraph}{\numberline {4.2.3.2}2.\enspace 逆向思考，归纳性质}{37}{}%
-\contentsline {section}{\numberline {5}结语}{41}{}%
-\contentsline {subsection}{\numberline {5.1}研究结论}{41}{}%
-\contentsline {subsection}{\numberline {5.2}研究启示}{41}{}%
-\contentsline {subsection}{\numberline {5.3}反思与展望}{42}{}%
-\contentsline {section}{参考文献}{44}{}%
-\contentsline {section}{致谢}{46}{}%
-\contentsline {section}{附录}{47}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}教学重难点}{36}{}%
+\contentsline {subsubsection}{\numberline {4.2.3}教学过程}{36}{}%
+\contentsline {section}{\numberline {5}结语}{43}{}%
+\contentsline {subsection}{\numberline {5.1}研究结论}{43}{}%
+\contentsline {subsection}{\numberline {5.2}研究启示}{43}{}%
+\contentsline {subsection}{\numberline {5.3}反思与展望}{44}{}%
+\contentsline {section}{参考文献}{46}{}%
+\contentsline {section}{致谢}{48}{}%
+\contentsline {section}{附录}{49}{}%
 \contentsfinish 
