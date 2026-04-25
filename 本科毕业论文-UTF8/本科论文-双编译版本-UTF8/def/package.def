@@ -1,0 +1,96 @@
+%!Mode:: "TeX:UTF-8"使用UTF8编码
+\usepackage{iftex}  % 专门用于检测编译引擎的宏包
+\ifXeTeX
+  % XeLaTeX配置
+  \usepackage{fontspec,fontenc}
+  
+  \usepackage{xeCJK}
+%  \setCJKmainfont[BoldFont=SimHei]{SimSun}
+  \setmainfont{Times New Roman}
+  \setCJKmainfont[BoldFont=SimHei,ItalicFont=KaiTi]{SimSun}
+  %\newcommand{\mycmd}{XeLaTeX命令}
+  \else\ifLuaTeX
+  % LuaLaTeX配置
+    \usepackage{fontspec}
+    \usepackage{luatexja-fontspec}
+    \setmainjfont{MS Mincho}
+  %\newcommand{\mycmd}{LuaLaTeX命令}
+    \else
+  % PDFLaTeX配置
+        \usepackage[T1]{fontenc}
+        \usepackage[utf8]{inputenc}
+        \usepackage{cjkutf8,lmodern,times}
+        \usepackage{ccmap}       %pdf中文不乱码
+        \def\CJK@bold{1}   % 强制开启中文粗体
+        \def\CJK@family{song}
+        \usepackage{lmodern}    %花括号不间断
+    %\usepackage{newtxtext,newtxmath}  % PDFLaTeX下的字体
+  %\newcommand{\mycmd}{PDFLaTeX命令}
+    \fi
+\fi
+
+% 所有引擎通用的宏包
+\usepackage{hyperref}
+\usepackage[left=3cm,right=2.5cm,top=3cm,bottom=2.5cm]{geometry}%页边距
+\usepackage{setspace} % 行间距
+\usepackage{fancyhdr} % 页眉页脚
+\usepackage{wrapfig}  % 文字环绕图片
+\usepackage{indentfirst}% 首行缩进
+
+% 图片与浮动体
+\usepackage{graphicx}   % 加载图片
+\usepackage{color,xcolor}%字体和背景颜色
+\usepackage{subcaption} % 子图排版
+\usepackage{float}      % 浮动体控制
+
+% 列表与表格
+\usepackage{enumitem}   % 自定义列表
+\usepackage{makecell}   % 表格单元格格式
+\usepackage{multirow}   % 表格跨行
+\usepackage{multicol}   % 多栏排版
+\usepackage{booktabs,array,longtable}% 高质量表格
+
+% 数学公式与定理（核心：amsthm设置间距）
+\usepackage{bm}          % 数学粗体
+\usepackage{etex,yhmath} % 扩展数学符号
+\usepackage{amsthm} % 现代定理环境
+\usepackage{amssymb,amscd,amsfonts,amsbsy,amsmath} %数学符号
+
+% 定义定理样式（含前后间距，替代旧命令）
+\newtheoremstyle{mytheorem}
+{5pt plus 1pt minus 2pt} % 定理上方间距（可自行调整数值）
+{5pt plus 1pt minus 2pt} % 定理下方间距
+{\normalfont}            % 定理正文字体
+{}                       % 无缩进
+{\bfseries}              % 定理标题加粗
+{.}                      % 标题后加句号
+{1em}                    % 标题与正文间距
+{}                       % 无额外标题格式
+
+
+% 其他工具宏包
+\usepackage{xifthen}     % 条件判断
+\usepackage{titletoc}    % 目录格式
+\usepackage{cite}        % 参考文献排序
+\usepackage{tikz}        % 绘图
+\usetikzlibrary{
+        calc,            % 坐标计算
+        %arrows.meta,     % 箭头样式
+        %shapes.geometric,% 几何形状
+        positioning,     % 节点定位
+        %backgrounds,     % 背景
+        %fit,             % 边界框
+        %patterns，       % 填充图案
+        intersections    % 交点
+    }
+%\usepackage{mathrsfs} % 哥特体
+%\usepackage{ntheorem}  % 定理环境
+\usepackage{enumitem}  % 设置各条例间距
+
+%\usepackage{times}    %英文字体
+\usepackage{indentfirst} %首行缩进
+\usepackage{makecell}    %表格宏包
+\usepackage{enumitem}    %扩展列表
+
+%\usepackage{CJKutf8}
+

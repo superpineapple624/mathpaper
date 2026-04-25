@@ -1,0 +1,14 @@
+% !Mode:: "TeX:UTF-8"
+%%%%%% 常用坐标平移量, h水平, v竖直, y 坐标长度
+\pgfmathsetmacro{\h}{3}
+\pgfmathsetmacro{\v}{2.3}
+\pgfmathsetmacro{\y}{.8}
+%%%%%%%%%% 图文混排标示
+\newcommand\tikzmark[1]{%
+\tikz[overlay,remember picture]\node[coordinate](#1){};}
+
+\newcommand{\xyarrow}[2][x]
+    {\ifx#1=x
+    \begin{scope}
+        \draw[clip] (#2)-- ++ (-0.05,0.05)-- ++(+0.15,-0.05) --
+        ++(-0.15,
